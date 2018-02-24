@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationTabs</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment">First Name</string>
+    <string name="button">ADD</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="card_text">This is my card</string>
+    <string name="heading_profile">Heading</string>
+    <string name="timestamp_profile">timestamp</string>
+</resources>
